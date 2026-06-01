@@ -8,15 +8,6 @@
 - `data/cumulative.csv`에 포함되어 있음
 - 코드에서 상대경로로 읽도록 설정되어 있습니다
 
-## 파일 구조
-
-.
-├── data/
-│ └── cumulative.csv # 데이터셋
-├── Machine_Learning_Project.py # 메인 코드
-├── README.md
-└── requirements.txt # 필요한 패키지
-
 
 ## 설치 방법
 Python 3.8 이상에서 아래 명령어로 패키지 설치:
