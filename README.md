@@ -38,16 +38,6 @@ pip install -r requirements.txt
 python machine_learning_project.py
 ```
 
-## 프로젝트 구조
-
-```text
-.
-├── data/
-│   └── exoplanets.csv
-├── machine_learning_project.py
-├── requirements.txt
-└── README.md
-```
 
 ## 참고사항
 
